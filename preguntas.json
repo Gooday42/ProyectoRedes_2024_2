@@ -1,0 +1,45 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Has llegado alguna vez tarde a una cita importante?",
+        "opciones": ["Sí", "No", "Prefiero no decirlo", "No lo recuerdo"]
+      },
+      {
+        "pregunta": "¿Alguna vez has olvidado el cumpleaños de alguien cercano?",
+        "opciones": ["Sí", "No", "Solo una vez", "No lo sé"]
+      },
+      {
+        "pregunta": "¿Has mentido alguna vez para evitar un problema?",
+        "opciones": ["Sí", "No", "Depende", "No estoy seguro"]
+      },
+      {
+        "pregunta": "¿Te has quedado con un cambio extra por error y no lo has devuelto?",
+        "opciones": ["Sí", "No", "Una vez", "Nunca"]
+      },
+      {
+        "pregunta": "¿Alguna vez has fingido estar enfermo para evitar una responsabilidad?",
+        "opciones": ["Sí", "No", "Tal vez", "No lo recuerdo"]
+      },
+      {
+        "pregunta": "¿Has roto algo y no lo has dicho?",
+        "opciones": ["Sí", "No", "Depende de la situación", "No estoy seguro"]
+      },
+      {
+        "pregunta": "¿Alguna vez has dado un cumplido que no sentías realmente?",
+        "opciones": ["Sí", "No", "Pocas veces", "No lo sé"]
+      },
+      {
+        "pregunta": "¿Te has quedado en silencio cuando debías decir la verdad?",
+        "opciones": ["Sí", "No", "Alguna vez", "Nunca"]
+      },
+      {
+        "pregunta": "¿Has contado un secreto que te pidieron guardar?",
+        "opciones": ["Sí", "No", "Solo una vez", "No lo recuerdo"]
+      },
+      {
+        "pregunta": "¿Alguna vez has hecho algo de lo que luego te has arrepentido?",
+        "opciones": ["Sí", "No", "Muchas veces", "No lo sé"]
+      }
+    ]
+  }
+  
