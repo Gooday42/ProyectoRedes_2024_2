@@ -21,7 +21,7 @@ A partir de las emociones capturadas durante una serie de preguntas, se calcula 
 
 ## Tecnologías utilizadas
 
-- **Python**
+- **Python**: Python 3.10.0
 - **OpenCV**: Captura de video y detección de rostros.
 - **Keras**: Modelo preentrenado de reconocimiento de emociones.
 - **TensorFlow Lite**: (Preparado para futuras optimizaciones en dispositivos de bajo rendimiento).
