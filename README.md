@@ -35,8 +35,7 @@ A partir de las emociones capturadas durante una serie de preguntas, se calcula 
 - **Test.py**: Script principal que ejecuta el reconocimiento de emociones, muestra las preguntas y calcula el porcentaje de veracidad.
 - **modelo_emocional.h5**: Modelo preentrenado para clasificación de emociones.
 - **preguntas.json**: Archivo JSON con las preguntas que se muestran al usuario.
-- **Registro.csv**: Archivo CSV donde se almacenan las emociones detectadas junto con la marca de tiempo.
-- **Resultados.json**: Archivo que guarda las respuestas del usuario junto con su porcentaje de veracidad.
+.
 
 ---
 
