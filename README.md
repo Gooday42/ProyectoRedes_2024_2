@@ -85,17 +85,4 @@ Si no se detectan emociones, el valor por defecto es 50%.
 - **Ampliar fuentes de datos:** Incorporar sensores de frecuencia cardíaca y temperatura corporal.
 - **Mejorar la precisión:** Implementar modelos multimodales combinando biometría y emociones.
 
----
-
-## Contribuciones
-
-Si deseas contribuir al proyecto, puedes clonar el repositorio y enviar un pull request con tus mejoras.
-
----
-
-## Contacto
-
-Para preguntas o sugerencias, no dudes en contactarme.
-
----
 
